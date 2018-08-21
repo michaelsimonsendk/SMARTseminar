@@ -9,7 +9,7 @@
             "serverInstance": "DynamicsNAV110",
             "authentication": "Windows",
             "startupObjectId": 123456702,
-            "schemaUpdateMode": "Recreate"
+            "schemaUpdateMode": "Synchronize"
         }
     ]
 }
